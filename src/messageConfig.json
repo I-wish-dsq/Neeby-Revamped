@@ -1,0 +1,14 @@
+{
+    "embedColorSuccess": "0x000000",
+    "embedColorError": "0x000000",
+    "embedColorWarning": "0x000000",
+
+    "embedErrorMessage": "Something went wrong! Please try again later.",
+
+    "commandDevOnly": "This command can only be used in development.",
+    "commandTestMode": "Test mode",
+    "commandPernissonOnly": "This command can only be used in",
+
+    "userNoPermissions": "You don't have permission to use this command.",
+    "botNoPermissions": "You don't have permission to use this command."
+}
